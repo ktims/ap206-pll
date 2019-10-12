@@ -831,6 +831,7 @@ F 0 "J1" H 518 1725 50  0000 C CNN
 F 1 "Screw_Terminal_01x06" H 518 1826 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-6-3.5-H_1x06_P3.50mm_Horizontal" H 600 1400 50  0001 C CNN
 F 3 "~" H 600 1400 50  0001 C CNN
+F 4 "1985001" H 600 1400 50  0001 C CNN "Part#"
 	1    600  1400
 	-1   0    0    -1  
 $EndComp
@@ -1070,7 +1071,7 @@ U 1 1 5D619F3A
 P 9400 1050
 F 0 "SW1" H 9400 1335 50  0000 C CNN
 F 1 "QLOCK" H 9400 1244 50  0000 C CNN
-F 2 "Button_Switch_THT:SW_E-Switch_EG1271_DPDT" H 9400 1050 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight" H 9400 1050 50  0001 C CNN
 F 3 "" H 9400 1050 50  0001 C CNN
 	1    9400 1050
 	1    0    0    -1  
@@ -1083,10 +1084,11 @@ F 0 "J2" H 8218 1575 50  0000 C CNN
 F 1 "Screw_Terminal_01x05" H 8218 1576 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-5-3.5-H_1x05_P3.50mm_Horizontal" H 8300 1250 50  0001 C CNN
 F 3 "~" H 8300 1250 50  0001 C CNN
+F 4 "1989777" H 8300 1250 50  0001 C CNN "Part#"
 	1    8300 1250
 	-1   0    0    -1  
 $EndComp
-Text Label 8700 1050 0    50   ~ 0
+Text Label 8700 1150 0    50   ~ 0
 13(GRY)
 Wire Wire Line
 	8500 1150 9150 1150
@@ -1106,12 +1108,12 @@ U 2 1 5D6334CD
 P 9400 1550
 F 0 "SW1" H 9400 1835 50  0000 C CNN
 F 1 "QLOCK" H 9400 1744 50  0000 C CNN
-F 2 "Button_Switch_THT:SW_E-Switch_EG1271_DPDT" H 9400 1550 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight" H 9400 1550 50  0001 C CNN
 F 3 "" H 9400 1550 50  0001 C CNN
 	2    9400 1550
 	1    0    0    -1  
 $EndComp
-Text Label 8700 1150 0    50   ~ 0
+Text Label 8700 1050 0    50   ~ 0
 12(WHTBLK)
 Wire Wire Line
 	9100 1450 9100 1550

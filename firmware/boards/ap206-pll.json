@@ -1,0 +1,19 @@
+{
+    "build": {
+      "f_cpu": "11059200L",
+      "mcu": "attiny25"
+    },
+    "frameworks": ["atmelavr"],
+    "name": "AP206 PLL Replacement",
+    "upload": {
+      "maximum_ram_size": 128,
+      "maximum_size": 2048
+    },
+    "fuses": {
+        "lfuse": "0xff",
+        "hfuse": "0xdf",
+        "efuse": "0xff"
+    },
+    "url": "http://ve7xen.com",
+    "vendor": "VE7XEN"
+  }

@@ -1122,7 +1122,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 1450 9100 1450
 Text Label 8700 1450 0    50   ~ 0
-19(WHT)
+9(WHT)
 Wire Wire Line
 	9600 1450 9700 1450
 Wire Wire Line
